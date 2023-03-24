@@ -5,4 +5,5 @@ add custom ranks
 compatible with the Lucko perms managment plugin
 Send your appriciation by starring this repro of follow me :)
 
-https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396
+
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
